@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.poc.reactor.ReactorMainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-05T17:48:35" hostname="C02YK38HLVCF" time="0.058">
+  <properties/>
+  <testcase name="map" classname="com.poc.reactor.ReactorMainTest" time="0.058"/>
+  <system-out><![CDATA[[DEBUG] (Test worker) Using Console logging
+6
+7
+12
+13
+24
+25
+30
+31
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
